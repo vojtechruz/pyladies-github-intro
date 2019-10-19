@@ -7,4 +7,6 @@ Nejaky text. Neco **duleziteho**.
 ## Hroncokova zmena
 Neco jsem ti zmenil
 
+Tuhle zmenu jsem udelal ve vetvi master.
+
 
